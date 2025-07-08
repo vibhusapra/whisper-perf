@@ -1,0 +1,19 @@
+{
+  "dataset_name": "LibriVox Public Domain Audiobooks",
+  "total_samples": 7,
+  "successful_downloads": 0,
+  "samples": {
+    "clean": [
+      "pride_prejudice_clean",
+      "sherlock_holmes_clean",
+      "war_of_worlds_dramatic",
+      "moby_dick_classic",
+      "frankenstein_atmospheric"
+    ],
+    "challenging": [
+      "pride_prejudice_fast_speech",
+      "sherlock_holmes_slow_speech"
+    ]
+  },
+  "notes": "Transcripts are extracted from Project Gutenberg texts. Some alignment with audio may be needed."
+}
